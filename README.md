@@ -1,5 +1,5 @@
 # Project Uncensored
-
+test
 Project Uncensored is an open-source AI model developed from scratch by solo developer **ilikegunsandihatethegovernment**. It aims to explore a different approach to AI: deep reasoning, spatial reasoning, and focused analysis that prioritizes checking verified sources, with little to no algorithmic influence.
 
 The goal is to create an AI that is less constrained by algorithmic steering while remaining transparent about how it works and what it can do.
