@@ -28,7 +28,7 @@ Contributions are welcome. Before opening a pull request, check the repository�
 
 ## Developer
 
-**timelord919** — solo developer
+**ilikegunsandihatethegovernment** — solo developer
 
 ## License
 
